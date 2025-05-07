@@ -4,7 +4,7 @@ Ola, esto es uma prueva.
 
 Ejemplo de una integracion continua para:
 
--Prueva de eror.
+-Prueva da eror.
 
 -egemplo de otrogafia.
 
