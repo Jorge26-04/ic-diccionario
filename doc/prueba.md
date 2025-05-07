@@ -2,7 +2,7 @@
 
 Ola, esto es uma prueva.
 
-Ejemplo de una integración continua para:
+Ejemplo de una integracion continua para:
 
 -Prueva de eror.
 
